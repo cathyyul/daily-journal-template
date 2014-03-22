@@ -1,0 +1,10 @@
+Thumbs.db
+*.pdf
+*.log
+*.aux
+*.bbl
+*.blg
+*.gz
+*.dvi
+*.ps
+*.out
